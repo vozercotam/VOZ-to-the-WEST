@@ -2,6 +2,8 @@
 # VOZ-to-the-WEST
 From VOZ to the West: journeys of vozers to the West 
 
+## Updated: Sau khi có offer thì những việc cần làm các thím tham khảo ở đây https://github.com/vozercotam/VOZ-to-the-WEST/blob/master/BEFORE_GOING.md
+
 Hi các thím,  
 Sau khoảng nửa năm lần mò và tìm cơ hội để đến được trời Tây, e vừa pass 1 Dev job sang Đức cách đây không lâu (chưa có offer letter chính thức, người ta mới email là "Tôi sẽ thuê bạn" thôi). Thực sự là không ngờ mọi chuyện xảy ra nhanh, may mắn và thuận lợi đến thế; vì mục tiêu của e là đi trong vòng 1-2 năm lận, ai dè...  
   
